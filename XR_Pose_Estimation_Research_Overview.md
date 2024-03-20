@@ -94,11 +94,29 @@ EgoLocate introduces an innovative approach to motion capture using minimal sens
 
 - [Read more](https://arxiv.org/abs/2305.01599)
 
+### Real-time Pose Estimation from Images for Multiple Humanoid Robots (RoboCup International Symposium 2021)
+
+This paper proposes a lightweight model designed for 2D pose estimation of multiple humanoid robots, addressing the challenge in real-time environments such as the RoboCup Humanoid League. A novel dataset, the HumanoidRobotPose dataset, is introduced to support this effort, demonstrating potential advancements for soccer-playing robots.
+
+- [Read more](https://arxiv.org/abs/2107.02675)
+
 ### An Avatar Robot Overlaid with the 3D Human Model of a Remote Operator (IROS 2023)
 
-This research bridges physical and virtual interactions by overlaying a 3D human model onto a robotic structure, enabling remote operators to provide physical assistance or perform tasks as if they were present. This technology has profound implications for telepresence, remote work, and assistive technologies.
+Introduces an Avatar Robot System, a mixed real/virtual robotic system that physically interacts with a person while being overlaid with the 3D model of a remote operator through Augmented Reality (AR). This approach enhances the sense of presence and trust in telepresence assistive robots.
 
 - [Read more](https://arxiv.org/pdf/2303.02546.pdf)
+
+### VIBE: Video Inference for Human Body Pose and Shape Estimation (CVPR 2020)
+
+VIBE is a video-based model that estimates human pose and shape from video sequences using a combination of a motion discriminator and a pose and shape regression network. This method significantly improves the accuracy and realism of pose estimation over image-based methods.
+
+- [Read more](file-fvXAKaqO6m8gk79cqc6rl5TB)
+
+### Back to Optimization: A New Approach to Real-time Multi-person 2D Pose Estimation (WACV 2024)
+
+Presents a novel optimization-based approach for real-time multi-person 2D pose estimation, focusing on achieving high accuracy and efficiency. This method revisits traditional optimization techniques with modern deep learning insights to improve pose estimation performance.
+
+- [Read more](file-wrtNmvVvsxAisQWGKyHVtAGi)
 
 ## Code Reviews
 
