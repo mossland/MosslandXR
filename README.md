@@ -10,6 +10,11 @@ The MosslandXR repository is dedicated to Extended Reality (XR) research, with a
 - **Application Development**: To develop practical applications within the Mossland ecosystem, enhancing user interaction and experience in the metaverse.
 - **Community Engagement**: To engage with the community for feedback, collaboration, and shared learning.
 
+## Research and Insights
+
+Explore our extensive research into Extended Reality technologies and their applications in the Mossland ecosystem:
+- [XR Pose Estimation Research Overview](./XR_Pose_Estimation_Research_Overview.md) - A comprehensive review of recent developments in pose estimation technologies for XR applications.
+
 ## Contact
 
 For any inquiries, please reach out to us at [contact@moss.land](mailto:contact@moss.land)
