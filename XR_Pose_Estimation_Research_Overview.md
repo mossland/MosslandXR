@@ -18,11 +18,75 @@ The SMPL model introduces a versatile, skinnable, and deformable mesh that can a
 
 - [Read more](https://dl.acm.org/doi/abs/10.1145/3596711.3596800)
 
+### Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image (ECCV 2016)
+
+Explores the integration of the SMPL model with single-image input to estimate 3D human pose and shape, making it more accessible for applications that have limited data input capabilities.
+
+- [Read more](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_34)
+
 ### Expressive Body Capture: 3D Hands, Face, and Body From a Single Image (CVPR 2019)
 
 This work demonstrates capturing detailed 3D models of the human body, including nuanced expressions of the face and hands, from a single image. Such technology enhances the realism and expressiveness of avatars in virtual environments, enabling more nuanced and personal interactions.
 
 - [Read more](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)
+
+### LiveCap: Real-Time Human Performance Capture From Monocular Video (SIGGRAPH 2019)
+
+Introduces a technique for live human performance capture using a single monocular video, pushing forward the capabilities for real-time and on-the-go 3D motion capture without the need for complex setups.
+
+- [Read more](https://dl.acm.org/doi/abs/10.1145/3311970)
+
+### Mo2Cap2: Real-time Mobile 3D Motion Capture with a Cap-mounted Fisheye Camera (IEEE VR 2019)
+
+Presents a novel approach for real-time 3D motion capture using a single fisheye camera mounted on a cap, enabling more flexible and mobile capture solutions for VR applications.
+
+- [Read more](https://ieeexplore.ieee.org/abstract/document/8643070)
+
+### PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time (SIGGRAPH Asia 2020)
+
+Explores real-time 3D motion capture from a single monocular video feed while ensuring physical plausibility in the captured movements, a key advancement for creating realistic virtual interactions.
+
+- [Read more](https://dl.acm.org/doi/abs/10.1145/3414685.3417877)
+
+### QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars (SIGGRAPH Asia 2022)
+
+Explores human motion tracking using sparse sensors and simulated avatars, presenting a significant advancement in creating realistic virtual representations of human movements.
+
+- [Meta AI Research: Quest 2 Body Pose Estimation Without Trackers](https://www.uploadvr.com/meta-quest-2-body-tracking-without-trackers/)
+- [YouTube - Meta Research: Quest 2 Body Tracking Without Extra Trackers](https://www.youtube.com/watch?v=QI4aMf-244A)
+- [YouTube - QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars](https://www.youtube.com/watch?v=CkTHsz6Ldas)
+
+### QuestEnvSim: Environment-Aware Simulated Motion Tracking from Sparse Sensors (SIGGRAPH 2023)
+
+Introduces environment-aware simulated motion tracking leveraging sparse sensors, enhancing the interaction between virtual avatars and their surroundings.
+
+- [Read more](https://arxiv.org/abs/2306.05666)
+- [YouTube - QuestEnvSim](https://www.youtube.com/watch?v=HXkp3ILm5bY)
+
+### Controllerpose: Inside-out Body Capture with VR Controller Cameras (CHI 2022)
+
+Presents an innovative method for body capture using VR controller cameras, offering new possibilities for interactive VR experiences.
+
+- [Read more](https://dl.acm.org/doi/abs/10.1145/3491102.3502105)
+
+### Deepmimic: Example-guided Deep Reinforcement Learning of Physics-based Character Skills (SIGGRAPH 2018)
+
+Showcases the use of example-guided deep reinforcement learning to teach virtual characters physics-based skills, pushing the boundaries of character animation in virtual environments.
+
+- [Read more](https://dl.acm.org/doi/abs/10.1145/3197517.3201311)
+
+### Physics-based Motion Capture Imitation with Deep Reinforcement Learning (SIGGRAPH 2018)
+
+Explores the imitation of physics-based motion capture using deep reinforcement learning, enhancing the realism of virtual character movements.
+
+- [Read more](https://dl.acm.org/doi/abs/10.1145/3274247.3274506)
+
+### Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture (SIGGRAPH Asia 2023)
+
+Introduces a method for real-time human motion capture by fusing monocular images and sparse IMU signals, contributing to advancements in motion capture technology.
+
+- [Read more](https://arxiv.org/abs/2309.00310)
+
 
 ### EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors (SIGGRAPH 2023)
 
