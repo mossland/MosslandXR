@@ -15,6 +15,7 @@ The MosslandXR repository is dedicated to Extended Reality (XR) research, with a
 Explore our extensive research into Extended Reality technologies and their applications in the Mossland ecosystem:
 - [XR Pose Estimation Research Overview](./XR_Pose_Estimation_Research_Overview.md) - A comprehensive review of recent developments in pose estimation technologies for XR applications.
 - [RoboPoseGen Project Overview](./RoboPoseGen/) - Detailed exploration into synthetic pose data generation using Unreal Engine for robotic pose estimation.
+- [Humanoid Robot Pose Estimation Research](./Humanoid_Robot_Pose_Estimation_Research.md) - Research on pose estimation techniques tailored for humanoid robots.
 
 ## Contact
 
